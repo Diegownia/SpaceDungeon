@@ -1,0 +1,14 @@
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/bin/Debug/net8.0/AtmosphericCalculator
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/bin/Debug/net8.0/AtmosphericCalculator.deps.json
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/bin/Debug/net8.0/AtmosphericCalculator.runtimeconfig.json
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/bin/Debug/net8.0/AtmosphericCalculator.dll
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/bin/Debug/net8.0/AtmosphericCalculator.pdb
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.AssemblyInfoInputs.cache
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.AssemblyInfo.cs
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.csproj.CoreCompileInputs.cache
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.dll
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/refint/AtmosphericCalculator.dll
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.pdb
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/AtmosphericCalculator.genruntimeconfig.cache
+/home/diegownia/Desktop/repos/bored/Adventure/tools/AtmosphericCalculator/AtmosphericCalculator/AtmosphericCalculator/obj/Debug/net8.0/ref/AtmosphericCalculator.dll
