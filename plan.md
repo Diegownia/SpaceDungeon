@@ -1,19 +1,8 @@
-# Adventure game! 
+# SpaceDungeon game! 
 
 - currently no bigger plan...
-- Game should have the character creation
-- Game should have chacter development elements
-- Game should be written in C# although we might consider writing some parts in other languages just for the gist of it
-- Game should be a simple text game with simple ASCII graphics, if at some point I think about moving to Avalonia or actual game engine just fucking kill me...
-- Game should have have turn based combat I believe this will be easier to implement (will see about that)
-- Some base building mechanincs, perhaps even crew management
-- Story wise? I honestly don't know... Maybe some space bs? Fuck knows... 
-
-## Some thoughts
-
-- come up with a decent save/load system (maybe for the sake of simplicity look at darkest dungeon => game have like a central port which player can develop and it's their starting point)
-- Enemy system (some sort of enemy database?) maybe later on come up with randomly generated enemies idk.
-- Consider taking an engine for ASCII like GORogue or something
+- Some base building mechanics, perhaps even crew management
+- Story for now needs to be simple, we just crashed on the surface of mars or perhaps other unknown planet, our station is somewhat broken and we will need to fix it solving some coding challenges
 
 ## Buildings
 
@@ -25,7 +14,7 @@ Ideally player would start with working HQ (however for the plot we might consid
 ### Oxygen Generation
 
 When living in space it's important to remember about breathing... Some basic buildings should have a form of a re-breathers, rather than generating oxygen from scratch they will recyrculate exisiting atmosphere (if existing) into breathable air. This should only work for a limited amount of time, but consume smaller ammount of energy where as upgrading this system will provide increased efficiency giving player more time. 
-When recyrculating air we need to consider that the amount of CO2 produced is about 1 kg per crewmember per day. For simplicity, we will use percenteges to calculate how CO2 affects people. (perks and statuses need to be considered later) Each building will have other dimensions and oxygen capacity need to considered individually. Now when it comes to managing people will assume they are stationary to heir posts, meaningthey will not be moving around the base at least initially. 
+When recirculating air we need to consider that the amount of CO2 produced is about 1 kg per crewmember per day. For simplicity, we will use percenteges to calculate how CO2 affects people. (perks and statuses need to be considered later) Each building will have other dimensions and oxygen capacity need to considered individually. Now when it comes to managing people will assume they are stationary to their posts, meaning they will not be moving around the base at least initially. 
 
  
 
